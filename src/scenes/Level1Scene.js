@@ -16,7 +16,7 @@ export default class Level1Scene extends Phaser.Scene {
   }
 
   createBackground() {
-    this.add.image(400, 300, "background");
+    this.add.image(400, 300, "background").setDisplaySize(800, 600);
   }
 
   createSlots() {
