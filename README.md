@@ -68,21 +68,11 @@ phaser-game/
         <li><strong>A main menu</strong> to navigate between different parts of the game.</li>
         <li><strong>Support for mobile devices</strong> so more people can play.</li>
     </ul>
-<h2>Here is a screencast showing the gameplay:</h2>
-<video width="640" height="360" controls>
-  Your browser does not support the video tag.
-</video>
-  [Watch the gameplay video on YouTube](https://youtu.be/LzKlmnCA5a8)
-  <h2>Here is a screencast showing the gameplay:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LzKlmnCA5a8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://youtu.be/LzKlmnCA5a8" target="_blank">Watch the gameplay video on YouTube</a></p>
     <h2>Here is a screencast showing the gameplay:</h2>
 <video width="640" height="360" controls>
   Your browser does not support the video tag.
 </video>
 [Watch the gameplay video on YouTube](https://youtu.be/LzKlmnCA5a8)
-<h2>Here is a screencast showing the gameplay:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LzKlmnCA5a8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h2>License</h2>
     <p>This project uses the <strong>MIT License</strong>.</p>
     <h2>Author</h2>
