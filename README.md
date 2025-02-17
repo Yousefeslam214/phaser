@@ -70,7 +70,7 @@ phaser-game/
     </ul>
 <h2>Here is a screencast showing the gameplay:</h2>
 <video width="640" height="360" controls>
-  <source src="https://github.com/Yousefeslam214/phaser/assets/Screencast%20from%2002-17-2025%2010:42:40%20AM.webm" type="video/webm">
+  <source src="https://github.com/Yousefeslam214/phaser/assets/gameShow.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
     <h2>License</h2>
