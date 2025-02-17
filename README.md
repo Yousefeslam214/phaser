@@ -70,9 +70,9 @@ phaser-game/
     </ul>
 <h2>Here is a screencast showing the gameplay:</h2>
 <video width="640" height="360" controls>
-  [Watch the gameplay video on YouTube](https://youtu.be/LzKlmnCA5a8)
   Your browser does not support the video tag.
 </video>
+  [Watch the gameplay video on YouTube](https://youtu.be/LzKlmnCA5a8)
     <h2>License</h2>
     <p>This project uses the <strong>MIT License</strong>.</p>
     <h2>Author</h2>
