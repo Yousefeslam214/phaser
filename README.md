@@ -68,6 +68,11 @@ phaser-game/
         <li><strong>A main menu</strong> to navigate between different parts of the game.</li>
         <li><strong>Support for mobile devices</strong> so more people can play.</li>
     </ul>
+<h2>Here is a screencast showing the gameplay:</h2>
+<video width="640" height="360" controls>
+  <source src="https://github.com/Yousefeslam214/phaser/raw/main/assets/Screencast%20from%2002-17-2025%2010:42:40%20AM.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
     <h2>License</h2>
     <p>This project uses the <strong>MIT License</strong>.</p>
     <h2>Author</h2>
